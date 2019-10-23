@@ -11,6 +11,7 @@ public class List_reverse_traversal {
 		st.add("aa"); st.add("bb"); st.add("cc");
 		
 		//in forward order i.e. same as  Iterator<String> it = st.iterator();
+		//
 		ListIterator<String> it1 = st.listIterator();
 		while(it1.hasNext()) {
 			System.out.println(it1.next());

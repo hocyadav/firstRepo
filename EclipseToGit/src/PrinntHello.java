@@ -5,6 +5,7 @@ public class PrinntHello {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		System.out.println("git --> eclipse");
+		System.out.println("-----from different eclipse workspace------");
 
 	}
 
